@@ -1,3 +1,8 @@
+# Usage
+1. Click on the "Open in Colab" button.
+<a href="https://colab.research.google.com/drive/1uS0FFIqViIBChfU72708WQDXwl33ZLb6" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+2. /content/drive/Shared drives/se888/download
+
 <p align="center"><img src="https://raw.githubusercontent.com/helloW3c/Google-Colab-CloudTorrent/master/src/cover.png" alt="cover"></p>
 
 ![preview](https://raw.githubusercontent.com/helloW3c/Google-Colab-CloudTorrent/master/src/preview.gif)
